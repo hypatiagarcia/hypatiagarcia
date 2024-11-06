@@ -4,6 +4,4 @@
 - 🌱 Estoy comenzando mi camino en ciencia de datos, bases de datos, aprendizaje automático y desarrollo web.
 - 📫 Contáctame! : hypatia.garcia28@gmail.com
 
-[![Hypatia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatiagarcia)](https://github.com/hypatiagarcia/github-readme-stats)
-![Hypatia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatiagarcia&show_icons=true)
 ![Hypatia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatiagarcia&show_icons=true&theme=dracula)
