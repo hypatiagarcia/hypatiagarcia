@@ -2,5 +2,6 @@
 
 - 🔭 Estudiante de Ingeniería Informática en la Universidad del Norte, Asunción, Paraguay.
 - 🌱 Estoy comenzando mi camino en ciencia de datos, bases de datos, aprendizaje automático y desarrollo web.
-- 📫 Contactame!: hypatia.garcia28@gmail.com
+- 📫 Contáctame! : hypatia.garcia28@gmail.com
 
+[![Hypatia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatiagarcia)](https://github.com/hypatiagarcia/github-readme-stats)
