@@ -1,7 +1,12 @@
-# Hola! Soy Hypatia 🤓✨
-- 🔭 Estudiante de Ingeniería Informática en la Universidad del Norte, Asunción, Paraguay.<br>
-- 🌱 Estoy comenzando mi camino en ciencia de datos, bases de datos y aprendizaje automático. <br>
-- 📫 Contáctame! : hypatia.garcia28@gmail.com
+# Hello! I am Hypatia 🤓 ✨
+- 🔭 Computer Engineering Student at the Universidad del Norte, Asunción, Paraguay. < br >
+- 🌱 I am starting my journey in data science, machine learning and AI. <br >
+- 📫 Contact me! : hypatia.garcia28@gmail.com
+
+Highly motivated Computer Engineering student with a proven track record in AI development and a strong
+interest in Machine Learning and Deep Learning. Proficient in Python, R, and cloud technologies, with
+experience in building and deploying AI solutions. Seeking a challenging role where I can leverage my analytical
+skills and passion for AI to contribute to impactful projects and advance the state-of-the-art
 
 
 ## 🌐 Redes:
